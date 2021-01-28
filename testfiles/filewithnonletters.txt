@@ -1,0 +1,11 @@
+one
+Two 2
+Three three 3
+Four four Four 4
+Five five Five five 5
+Six six Six six Six 6
+Seven seven Seven seven Seven seven 7
+Eight eight Eight eight Eight eight Eight 8
+Nine Nine Nine Nine Nine Nine Nine Nine 9
+Ten Ten Ten Ten Ten Ten Ten Ten Ten Ten 10
+! @ # $ % ^ & * ( )
