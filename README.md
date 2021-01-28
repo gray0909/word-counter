@@ -6,12 +6,11 @@ Python 3 word counter
 
 To run the word_counter.py:
 
+    Command : python <Path_to_project>/word_counter.py <Path_to_file>/{filename}.txt
+
 1. First go into the project root directory
 
 2. Run command below
-
-
-    python <Path_to_project>/word_counter.py <Path_to_file>/{filename}.txt
 
 example from project root directory:
 
@@ -20,9 +19,15 @@ example from project root directory:
 
 ### Tests ###
 
-Run the 'tests.py' test suite file:
+To run the test:
 
-    ./tests.py
+1. First go into the project root directory
+
+2. Run command below
+   
+example from project root directory:
+   
+    ./counttests.py
 
 ### Solution Explanation ###
 
